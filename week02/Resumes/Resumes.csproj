@@ -7,5 +7,9 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>disable</Nullable>
   </PropertyGroup>
+<ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Job.cs" />
+</ItemGroup>
 
 </Project>
